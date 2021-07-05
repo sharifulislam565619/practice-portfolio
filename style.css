@@ -43,6 +43,18 @@ img{
     font-family: 'Tangerine', cursive;
    
 }
+#my-dream {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-left: 54px;
+}
+
+hr{
+    border:0;
+    height: 30px;
+    background-image: url(images/type_7.png);
+  
+    }
 .experience-section{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
@@ -73,6 +85,18 @@ img{
     border-image: linear-gradient(blue,yellow,green,red);
     border-image-slice: 1;
 }
+.ex1{
+    background-color: green;
+    color: red;
+    padding: 5px 20px;
+    border-radius:10px ;
+    -webkit-border-radius:10px ;
+    -moz-border-radius:10px ;
+    -ms-border-radius:10px ;
+    -o-border-radius:10px ;
+}
 footer p{
    text-align: center;
+   color: blue;
+   font-weight: 800;
 }
